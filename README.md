@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ammar Cheema</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadammar33&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadammar33" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadammar33" alt="muhammadammar33" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/m_ammar_cheema" target="blank"><img src="https://img.shields.io/twitter/follow/m_ammar_cheema?logo=twitter&style=for-the-badge" alt="m_ammar_cheema" /></a> </p>
+
 - 🌱 I’m currently learning **WEB Technology, Operating Systems and AI**
 
 - 👨‍💻 All of my projects are available at [muhammad-ammar-cheema.netlify.app](muhammad-ammar-cheema.netlify.app)
