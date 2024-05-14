@@ -34,3 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammar33&" alt="muhammadammar33" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadammar33" alt="muhammadammar33" /></a> </p>
+
+
+[![An image of @muhammadammar33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadammar33)](https://holopin.io/@muhammadammar33)
+
