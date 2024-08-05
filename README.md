@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **muhammadammar7747@gmail.com**
 
-- ⚡ Fun fact **Less Code means Less Bugs 😂**
+- ⚡ Fun fact: **Less Code means Less Bugs 😂**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
