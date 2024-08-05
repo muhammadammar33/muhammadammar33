@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadammar33&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadammar33" /> </p>
 
-<p align="left"> <a href="https://twitter.com/m_ammar_cheema" target="blank"><img src="https://img.shields.io/twitter/follow/m_ammar_cheema?logo=twitter&style=for-the-badge" alt="m_ammar_cheema" /></a> </p>
-
-- 🌱 I’m currently learning **WEB Technology, Operating Systems and AI**
+- 🌱 I’m currently learning **Next.js, .NET**
 
 - 👨‍💻 All of my projects are available at [muhammad-ammar-cheema.netlify.app](muhammad-ammar-cheema.netlify.app)
 
