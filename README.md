@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, .NET**
 
-- 👨‍💻 All of my projects are available at my [Portfolio Website](https://maczac.netlify.app/)
+- 👨‍💻 All of my projects are available at my <a href="https://maczac.netlify.app/" target="_blank">Portfolio Website</a>
 
 - 📫 How to reach me **muhammadammar7747+github@gmail.com**
 
