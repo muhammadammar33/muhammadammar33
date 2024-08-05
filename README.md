@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, .NET**
 
-- 👨‍💻 All of my projects are available at [muhammad-ammar-cheema.netlify.app](muhammad-ammar-cheema.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://maczac.netlify.app/)
 
 - 📫 How to reach me **muhammadammar7747+github@gmail.com**
 
