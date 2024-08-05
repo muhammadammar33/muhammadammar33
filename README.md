@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Next.js, C#, .NET**
 
-- 👨‍💻 All of my projects are available at [https://maczac.netlify.app/](https://maczac.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio Website](https://maczac.netlify.app/)
 
-- 📝 I regularly write articles on [https://perspectivepulse.onrender.com/](https://perspectivepulse.onrender.com/)
+- 📝 I regularly write articles on [PerspectivePulse](https://perspectivepulse.onrender.com/)
 
 - 📫 How to reach me **muhammadammar7747@gmail.com**
 
