@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadammar33&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadammar33" /> </p>
 
-- 🔭 I’m currently working on [Blog Website](https://perspectivepulse.onrender.com/)
+- 🔭 I’m currently working in CareCloud.
 
-- 🌱 I’m currently learning **Next.js, C#, .NET**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at my [Portfolio Website](https://maczac.netlify.app/)
-
-- 📝 I regularly write articles on [PerspectivePulse](https://perspectivepulse.onrender.com/)
 
 - 📫 How to reach me **muhammadammar7747@gmail.com**
 
