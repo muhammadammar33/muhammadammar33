@@ -67,9 +67,9 @@
 - **AgentCore Registry** — Cross-region ingestion system for Syngenta AI Foundry POC, enumerating runtimes across A2A, AGUI, HTTP, and MCP protocols
 - **n8n Automation Portfolio** — LinkedIn auto-poster (Gemini + Unsplash + Slack approval), B2B lead-gen pipelines, and candidate assessment systems
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadammar33&show_icons=true&locale=en&layout=compact" alt="muhammadammar33" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadammar33&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="muhammadammar33" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadammar33&show_icons=true&locale=en" alt="muhammadammar33" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadammar33&show_icons=true&locale=en&cache_seconds=86400" alt="muhammadammar33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammar33&" alt="muhammadammar33" /></p>
 
