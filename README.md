@@ -67,12 +67,14 @@
 - **AgentCore Registry** — Cross-region ingestion system for Syngenta AI Foundry POC, enumerating runtimes across A2A, AGUI, HTTP, and MCP protocols
 - **n8n Automation Portfolio** — LinkedIn auto-poster (Gemini + Unsplash + Slack approval), B2B lead-gen pipelines, and candidate assessment systems
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadammar33&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="muhammadammar33" /></p>
+### 🛠️ Tech Stack at a Glance
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadammar33&show_icons=true&locale=en&cache_seconds=86400" alt="muhammadammar33" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammar33&" alt="muhammadammar33" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadammar33" alt="muhammadammar33" /></a> </p>
+| Category | Stack |
+|---|---|
+| **AI / Automation** | LangChain, AWS Bedrock AgentCore, n8n, RAG, Multi-Agent Systems |
+| **Languages** | Python, JavaScript, TypeScript, Java |
+| **Cloud / Infra** | AWS (Bedrock, DynamoDB, S3, Lambda, CodeBuild), Docker |
+| **Frameworks** | FastAPI, Next.js, React, Node.js |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Firebase |
 
 [![An image of @muhammadammar33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadammar33)](https://holopin.io/@muhammadammar33)
